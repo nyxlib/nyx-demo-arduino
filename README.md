@@ -10,7 +10,7 @@ This is a demo showing how to develop a [Nyx](https://nyxlib.org/) driver (aka n
 
 # Build instructions
 
-Make sure that [Nyx-Node](https://github.com/nyxlib/nyx-node/), [Nyx-Gen](https://github.com/nyxlib/nyx-gen/) and [Nyx-Assistant](https://github.com/nyxlib/nyx-assistant/) are installed.
+Make sure that [Nyx-Node](https://github.com/nyxlib/nyx-node/), [Nyx-Gen](https://github.com/nyxlib/nyx-gen/), [Nyx-Assistant](https://github.com/nyxlib/nyx-assistant/), [PlatformIO](https://platformio.org/install/) are installed.
 
 if needed, open `nyx-demo.json` with Nyx-Assistant and edit `mqttURÌ`,`mqttUsername`, `mqttPassword`, `redisURI`, `redisUsername`, `redisPassword`.
 
